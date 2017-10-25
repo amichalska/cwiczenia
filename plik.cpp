@@ -18,6 +18,7 @@ for( int i = 1; i < 5; i++ )
     if( tablica[i] < max )
         min = tablica[i]; 
      }   
+     
    cout<<"Najmniejszy element  "<<min<<endl;
    cout<<"Największy element  "<<max<<endl;    
 	
